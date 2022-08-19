@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "80934430335",
+    "project_id": "taxi-cabby-map1",
+    "storage_bucket": "taxi-cabby-map1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80934430335:android:fcb4fa29f279782afa014a",
+        "android_client_info": {
+          "package_name": "com.taxi_cabby.cabby"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80934430335-s1bhhq2e8r3r2dhgb03dc22pek2d7efj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2DsmJtUWDC0AqcnCp0Hex8drsJ4Or64Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80934430335-s1bhhq2e8r3r2dhgb03dc22pek2d7efj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "80934430335-cmuqt70rm4tbp40p8f0t3l4kg6jgh7e9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.taxicabby.cabby"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
